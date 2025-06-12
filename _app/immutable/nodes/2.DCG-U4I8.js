@@ -1,1 +1,0 @@
-import{f as r,a as o}from"../chunks/B50e6QzS.js";import"../chunks/Le4g834i.js";import{t as e}from"../chunks/D7Kmm6ks.js";import{s as m}from"../chunks/BBQrb8al.js";import{b as i}from"../chunks/VoMTf3fR.js";var p=r('<a aria-hidden="true" class="hidden">Navigate to 1337</a>');function h(t){var a=p();e(()=>m(a,"href",`${i??""}/1337`)),o(t,a)}export{h as component};
