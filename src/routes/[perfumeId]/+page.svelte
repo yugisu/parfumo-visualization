@@ -60,6 +60,12 @@
 		</div>
 	{/key}
 
+	<div class="system-hint absolute bottom-6 left-1/2 z-50 flex -translate-x-1/2 items-center max-sm:hidden">
+		<span class=" text-white opacity-100">Press <span class="text-sm">[SPACE]</span> to go to the next perfume.</span>
+	</div>
+
+	<a href="/1337" aria-hidden="true" class="hidden"></a>
+
 	<div class="absolute right-8 bottom-6 z-50">
 		<button class="next-btn relative cursor-pointer" onclick={visitNextPerfume} bind:this={nextButton}>
 			<div class="text-white mix-blend-overlay">
@@ -69,10 +75,6 @@
 				<span>Visit Next</span> <span class="next-btn__arrow">→</span>
 			</div>
 		</button>
-	</div>
-
-	<div class="system-hint absolute bottom-6 left-1/2 z-50 flex -translate-x-1/2 items-center max-sm:hidden">
-		<span class=" text-white opacity-100">Press <span class="text-sm">[SPACE]</span> to go to the next perfume.</span>
 	</div>
 </main>
 
