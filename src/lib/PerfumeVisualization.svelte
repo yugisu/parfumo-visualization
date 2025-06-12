@@ -58,7 +58,7 @@
 	const dropletAmount = rand(15, 3) | 0;
 	const dropletCoords = Array(dropletAmount)
 		.fill(null)
-		.map(() => ({ cx: rand(1000), cy: rand(1000), r: rand(150, 25) }));
+		.map(() => ({ cx: rand(1000), cy: rand(1000), r: rand(150, 25), opacity: rand(1, 0.4) }));
 
 	const mainAccordsAngle = rand(40, 10) | 0;
 </script>
@@ -106,11 +106,12 @@
 			</defs>
 
 			<rect width="1000" height="1000" fill="url(#main-accords-gradient)" />
-			{#each dropletCoords as { cx, cy, r }}
+			{#each dropletCoords as { cx, cy, r, opacity }}
 				<circle
 					{cx}
 					{cy}
 					{r}
+					style:opacity
 					fill="rgba(255, 255, 255, 0.15)"
 					stroke="rgba(255, 255, 255, 0.4)"
 					stroke-width="0.5"
