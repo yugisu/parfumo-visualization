@@ -1,0 +1,2658 @@
+{
+  "floral": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "soapy notes": {
+    "color": "#E8F4FD",
+    "category": "Aldehydes"
+  },
+  "african amber": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "african amber absolute": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "aldambre\u2122": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "amber": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "amber absolute": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "amber core": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "amber notes": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "amber xtreme\u2122": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "amberketal": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "amberlyn\u00ae": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "ambermax\u00ae": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "ambertonic\u00ae": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "amberwood": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "ambramone\u2122": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "ambranum": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "ambre 83 accord": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "ambre 84 accord": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "ambrocenide\u00ae": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "andalusian amber": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "anthamber\u2122": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "arabian amber": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "australian amber": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "austrian amber": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "baltic amber": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "black amber": {
+    "color": "#2C1810",
+    "category": "Amber"
+  },
+  "blue amber": {
+    "color": "#4A90E2",
+    "category": "Amber"
+  },
+  "brazilian amber": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "cedramber": {
+    "color": "#B8956A",
+    "category": "Amber"
+  },
+  "cetalox\u00ae": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "ambergris": {
+    "color": "#8B4513",
+    "category": "Animalic notes"
+  },
+  "castoreum": {
+    "color": "#654321",
+    "category": "Animalic notes"
+  },
+  "civet": {
+    "color": "#8B4513",
+    "category": "Animalic notes"
+  },
+  "hyraceum": {
+    "color": "#8B4513",
+    "category": "Animalic notes"
+  },
+  "leather": {
+    "color": "#8B4513",
+    "category": "Animalic notes"
+  },
+  "skin": {
+    "color": "#DDBEA9",
+    "category": "Musk"
+  },
+  "algae": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "kelp": {
+    "color": "#556B2F",
+    "category": "Green notes"
+  },
+  "marine notes": {
+    "color": "#4A90E2",
+    "category": "Aquatic notes"
+  },
+  "ozone": {
+    "color": "#87CEEB",
+    "category": "Aquatic notes"
+  },
+  "amyris": {
+    "color": "#9B6B4F",
+    "category": "Balsamic notes"
+  },
+  "balsam fir": {
+    "color": "#228B22",
+    "category": "Balsamic notes"
+  },
+  "balsam poplar": {
+    "color": "#9B6B4F",
+    "category": "Resinous notes"
+  },
+  "balsams": {
+    "color": "#9B6B4F",
+    "category": "Resinous notes"
+  },
+  "cistus": {
+    "color": "#9B6B4F",
+    "category": "Balsamic notes"
+  },
+  "copaiva balsam": {
+    "color": "#9B6B4F",
+    "category": "Balsamic notes"
+  },
+  "fir balsam": {
+    "color": "#228B22",
+    "category": "Balsamic notes"
+  },
+  "gurjum": {
+    "color": "#9B6B4F",
+    "category": "Balsamic notes"
+  },
+  "incense": {
+    "color": "#8B7355",
+    "category": "Smoky notes"
+  },
+  "peru balm": {
+    "color": "#9B6B4F",
+    "category": "Balsamic notes"
+  },
+  "pine balsam": {
+    "color": "#228B22",
+    "category": "Balsamic notes"
+  },
+  "resins": {
+    "color": "#9B6B4F",
+    "category": "Resinous notes"
+  },
+  "tolu balm": {
+    "color": "#9B6B4F",
+    "category": "Balsamic notes"
+  },
+  "bergamot": {
+    "color": "#90EE90",
+    "category": "Citric notes"
+  },
+  "bitter orange": {
+    "color": "#FF8C00",
+    "category": "Citric notes"
+  },
+  "bitter orange blossom": {
+    "color": "#FFE4E1",
+    "category": "Floral notes"
+  },
+  "blood orange": {
+    "color": "#FF4500",
+    "category": "Citric notes"
+  },
+  "citron": {
+    "color": "#FFFF00",
+    "category": "Citric notes"
+  },
+  "citrus fruits": {
+    "color": "#FFD700",
+    "category": "Citric notes"
+  },
+  "clementine": {
+    "color": "#FF7F50",
+    "category": "Citric notes"
+  },
+  "grapefruit": {
+    "color": "#FFB6C1",
+    "category": "Citric notes"
+  },
+  "juices": {
+    "color": "#FFD700",
+    "category": "Green notes"
+  },
+  "kaffir lime": {
+    "color": "#32CD32",
+    "category": "Citric notes"
+  },
+  "kumquat": {
+    "color": "#FFA500",
+    "category": "Citric notes"
+  },
+  "lemon": {
+    "color": "#FFFF00",
+    "category": "Citric notes"
+  },
+  "lemon grass": {
+    "color": "#ADFF2F",
+    "category": "Herbaceous notes"
+  },
+  "lemon vervain": {
+    "color": "#FFFF99",
+    "category": "Citric notes"
+  },
+  "lime": {
+    "color": "#32CD32",
+    "category": "Citric notes"
+  },
+  "litsea cubeba": {
+    "color": "#FFD700",
+    "category": "Citric notes"
+  },
+  "mandarin": {
+    "color": "#FF8C00",
+    "category": "Citric notes"
+  },
+  "minneola": {
+    "color": "#FF7F50",
+    "category": "Citric notes"
+  },
+  "monarda": {
+    "color": "#FFD700",
+    "category": "Citric notes"
+  },
+  "neroli": {
+    "color": "#FFE4B5",
+    "category": "Floral notes"
+  },
+  "orange": {
+    "color": "#FFA500",
+    "category": "Citric notes"
+  },
+  "petitgrain": {
+    "color": "#9ACD32",
+    "category": "Citric notes"
+  },
+  "pomelo": {
+    "color": "#FFFF99",
+    "category": "Citric notes"
+  },
+  "satsuma": {
+    "color": "#FF8C00",
+    "category": "Citric notes"
+  },
+  "vervain": {
+    "color": "#9ACD32",
+    "category": "Citric notes"
+  },
+  "yuzu": {
+    "color": "#FFFF99",
+    "category": "Citric notes"
+  },
+  "patchouli": {
+    "color": "#8B6914",
+    "category": "Oriental notes"
+  },
+  "peat": {
+    "color": "#654321",
+    "category": "Earthy notes"
+  },
+  "african violet": {
+    "color": "#8A2BE2",
+    "category": "Floral notes"
+  },
+  "aglaia": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "amaryllis": {
+    "color": "#DC143C",
+    "category": "Floral notes"
+  },
+  "angel's trumpet": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "ashoka": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "aster": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "azalea": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "begonia": {
+    "color": "#FF1493",
+    "category": "Floral notes"
+  },
+  "bellflower": {
+    "color": "#6495ED",
+    "category": "Floral notes"
+  },
+  "bluebell": {
+    "color": "#4169E1",
+    "category": "Floral notes"
+  },
+  "boronia": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "broom": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "bud": {
+    "color": "#90EE90",
+    "category": "Green notes"
+  },
+  "calla": {
+    "color": "#F5F5F5",
+    "category": "Floral notes"
+  },
+  "calycanthus": {
+    "color": "#8B0000",
+    "category": "Floral notes"
+  },
+  "camellia": {
+    "color": "#FFB6C1",
+    "category": "Floral notes"
+  },
+  "camomile": {
+    "color": "#FFFFE0",
+    "category": "Herbaceous notes"
+  },
+  "carnation": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "cassia": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "chrysanthemum": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "cornflower": {
+    "color": "#6495ED",
+    "category": "Floral notes"
+  },
+  "costus": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "crocus": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "cyclamen": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "dahlia": {
+    "color": "#FF6347",
+    "category": "Floral notes"
+  },
+  "daisy": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "dandelion": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "daphne": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "datura": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "dianthus": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "dogwood": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "elder": {
+    "color": "#F5F5DC",
+    "category": "Fruity notes"
+  },
+  "filipendula": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "flowers": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "frangipani": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "freesia": {
+    "color": "#FFE4E1",
+    "category": "Floral notes"
+  },
+  "gardenia": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "geranium": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "gladiolus": {
+    "color": "#FF6347",
+    "category": "Floral notes"
+  },
+  "hamamelis": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "hawthorn": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "hedychium": {
+    "color": "#FFE4E1",
+    "category": "Floral notes"
+  },
+  "heliotrope": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "hellebore": {
+    "color": "#800080",
+    "category": "Floral notes"
+  },
+  "henna": {
+    "color": "#A0522D",
+    "category": "Floral notes"
+  },
+  "hibiscus": {
+    "color": "#DC143C",
+    "category": "Fruity notes"
+  },
+  "honeysuckle": {
+    "color": "#FFE4B5",
+    "category": "Floral notes"
+  },
+  "hyacinth": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "hydrangea": {
+    "color": "#DDA0DD",
+    "category": "Floral notes"
+  },
+  "immortelle": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "ipomoea": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "iris": {
+    "color": "#9370DB",
+    "category": "Powdery notes"
+  },
+  "jasmine": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "lavender": {
+    "color": "#9370DB",
+    "category": "Herbaceous notes"
+  },
+  "liatrix": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "lilac": {
+    "color": "#DDA0DD",
+    "category": "Floral notes"
+  },
+  "lily": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "lily-of-the-valley": {
+    "color": "#F5F5F5",
+    "category": "Floral notes"
+  },
+  "linden blossom": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "lotus": {
+    "color": "#FFB6C1",
+    "category": "Floral notes"
+  },
+  "magnolia": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "mallow": {
+    "color": "#FFB6C1",
+    "category": "Floral notes"
+  },
+  "mandevilla": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "marigold": {
+    "color": "#FFA500",
+    "category": "Floral notes"
+  },
+  "mimosa": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "mock-orange": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "musk rose": {
+    "color": "#FFB6C1",
+    "category": "Floral notes"
+  },
+  "narcissus": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "nectar": {
+    "color": "#FFD700",
+    "category": "Fruity notes"
+  },
+  "oleander": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "orange blossom": {
+    "color": "#FFE4B5",
+    "category": "Floral notes"
+  },
+  "orchid": {
+    "color": "#DA70D6",
+    "category": "Floral notes"
+  },
+  "osmanthus": {
+    "color": "#FFE4B5",
+    "category": "Fruity notes"
+  },
+  "palmarosa": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "pansy": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "passion flower": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "pelargonium": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "peony": {
+    "color": "#FFB6C1",
+    "category": "Floral notes"
+  },
+  "phlox": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "pittosporum": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "plants": {
+    "color": "#4CAF50",
+    "category": "Woody notes"
+  },
+  "pollen": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "poppy": {
+    "color": "#FF4500",
+    "category": "Floral notes"
+  },
+  "primrose": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "reseda": {
+    "color": "#9ACD32",
+    "category": "Floral notes"
+  },
+  "rhododendron": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "robinia": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "rose": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "spikenard": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "stephanotis": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "sunflower": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "sweet pea": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "tagetes": {
+    "color": "#FFA500",
+    "category": "Floral notes"
+  },
+  "tansy": {
+    "color": "#FFD700",
+    "category": "Herbaceous notes"
+  },
+  "tiar\u00e9": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "tuberose": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "tulip": {
+    "color": "#FF6347",
+    "category": "Floral notes"
+  },
+  "violet": {
+    "color": "#8A2BE2",
+    "category": "Floral notes"
+  },
+  "water lily": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "west indian lantana": {
+    "color": "#FFA500",
+    "category": "Floral notes"
+  },
+  "white flowers": {
+    "color": "#F5F5F5",
+    "category": "Floral notes"
+  },
+  "wisteria": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "ylang-ylang": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "ambroxan": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "cashmere wood": {
+    "color": "#DEB887",
+    "category": "Woody notes"
+  },
+  "cosmo fragrances": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "cumarin": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "dsm-firmenich": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "floralozone": {
+    "color": "#87CEEB",
+    "category": "Green notes"
+  },
+  "givaudan": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "iff": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "ka\u014d": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "mane": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "pfizer": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "robertet": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "symrise": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "synarome": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "vigon": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "berries": {
+    "color": "#8B008B",
+    "category": "Fruity notes"
+  },
+  "fruits": {
+    "color": "#FF6B6B",
+    "category": "Fruity notes"
+  },
+  "nuts": {
+    "color": "#8B4513",
+    "category": "Fruity notes"
+  },
+  "olive": {
+    "color": "#808000",
+    "category": "Fruity notes"
+  },
+  "pumpkin": {
+    "color": "#FF7F50",
+    "category": "Fruity notes"
+  },
+  "rhubarb": {
+    "color": "#DA70D6",
+    "category": "Green notes"
+  },
+  "rose hip": {
+    "color": "#FF69B4",
+    "category": "Fruity notes"
+  },
+  "santol": {
+    "color": "#FF6B6B",
+    "category": "Fruity notes"
+  },
+  "surinam cherry": {
+    "color": "#DC143C",
+    "category": "Fruity notes"
+  },
+  "tamarind": {
+    "color": "#8B4513",
+    "category": "Fruity notes"
+  },
+  "tomato": {
+    "color": "#FF6347",
+    "category": "Fruity notes"
+  },
+  "bacon": {
+    "color": "#8B4513",
+    "category": "Gourmandy notes"
+  },
+  "beverages": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "bread": {
+    "color": "#DEB887",
+    "category": "Grain"
+  },
+  "butter": {
+    "color": "#FFFFE0",
+    "category": "Gourmandy notes"
+  },
+  "cake": {
+    "color": "#F5DEB3",
+    "category": "Gourmandy notes"
+  },
+  "caramel": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "chocolate": {
+    "color": "#8B4513",
+    "category": "Gourmandy notes"
+  },
+  "cocoa": {
+    "color": "#654321",
+    "category": "Gourmandy notes"
+  },
+  "cream": {
+    "color": "#FFFDD0",
+    "category": "Gourmandy notes"
+  },
+  "dish": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "dough": {
+    "color": "#F5DEB3",
+    "category": "Gourmandy notes"
+  },
+  "hard candy": {
+    "color": "#FF69B4",
+    "category": "Gourmandy notes"
+  },
+  "honey": {
+    "color": "#FFD700",
+    "category": "Gourmandy notes"
+  },
+  "ice cream": {
+    "color": "#F5F5DC",
+    "category": "Gourmandy notes"
+  },
+  "lemonade": {
+    "color": "#FFFF99",
+    "category": "Gourmandy notes"
+  },
+  "liquorice": {
+    "color": "#2F4F4F",
+    "category": "Gourmandy notes"
+  },
+  "marshmallow": {
+    "color": "#F5F5F5",
+    "category": "Gourmandy notes"
+  },
+  "meat": {
+    "color": "#8B0000",
+    "category": "Gourmandy notes"
+  },
+  "milk": {
+    "color": "#F5F5F5",
+    "category": "Gourmandy notes"
+  },
+  "mushrooms": {
+    "color": "#D2B48C",
+    "category": "Gourmandy notes"
+  },
+  "pastry": {
+    "color": "#F5DEB3",
+    "category": "Gourmandy notes"
+  },
+  "popcorn": {
+    "color": "#FFFFE0",
+    "category": "Gourmandy notes"
+  },
+  "pralin\u00e9": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "preserves": {
+    "color": "#8B008B",
+    "category": "Gourmandy notes"
+  },
+  "pudding": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "sherbet": {
+    "color": "#FFB6C1",
+    "category": "Gourmandy notes"
+  },
+  "soy": {
+    "color": "#8B4513",
+    "category": "Gourmandy notes"
+  },
+  "spread": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "sugar": {
+    "color": "#F5F5F5",
+    "category": "Gourmandy notes"
+  },
+  "sweet dishes": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "sweet potato": {
+    "color": "#FF8C00",
+    "category": "Gourmandy notes"
+  },
+  "sweets": {
+    "color": "#FF69B4",
+    "category": "Gourmandy notes"
+  },
+  "syrup": {
+    "color": "#B8860B",
+    "category": "Gourmandy notes"
+  },
+  "truffle": {
+    "color": "#654321",
+    "category": "Gourmandy notes"
+  },
+  "yams": {
+    "color": "#DEB887",
+    "category": "Gourmandy notes"
+  },
+  "barley": {
+    "color": "#DEB887",
+    "category": "Grain"
+  },
+  "buckwheet": {
+    "color": "#8B7355",
+    "category": "Grain"
+  },
+  "malt": {
+    "color": "#DAA520",
+    "category": "Grain"
+  },
+  "oat": {
+    "color": "#F5DEB3",
+    "category": "Grain"
+  },
+  "rice": {
+    "color": "#F5F5DC",
+    "category": "Grain"
+  },
+  "seed": {
+    "color": "#8B7355",
+    "category": "Spicy notes"
+  },
+  "sweet corn": {
+    "color": "#FFD700",
+    "category": "Grain"
+  },
+  "wheet": {
+    "color": "#DAA520",
+    "category": "Grain"
+  },
+  "agave": {
+    "color": "#4CAF50",
+    "category": "Green notes"
+  },
+  "aloe": {
+    "color": "#32CD32",
+    "category": "Green notes"
+  },
+  "bamboo": {
+    "color": "#90EE90",
+    "category": "Green notes"
+  },
+  "bark": {
+    "color": "#8B4513",
+    "category": "Woody notes"
+  },
+  "bean": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "bedstraw": {
+    "color": "#4CAF50",
+    "category": "Green notes"
+  },
+  "cactus": {
+    "color": "#32CD32",
+    "category": "Green notes"
+  },
+  "calamus": {
+    "color": "#4CAF50",
+    "category": "Green notes"
+  },
+  "clover": {
+    "color": "#32CD32",
+    "category": "Green notes"
+  },
+  "coca": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "coniferous trees": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "cucumber": {
+    "color": "#90EE90",
+    "category": "Green notes"
+  },
+  "fern": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "fig": {
+    "color": "#9ACD32",
+    "category": "Green notes"
+  },
+  "grasses": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "hemp": {
+    "color": "#556B2F",
+    "category": "Green notes"
+  },
+  "herbs": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "ivy": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "leaves": {
+    "color": "#228B22",
+    "category": "Herbaceous notes"
+  },
+  "lovage": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "matcha": {
+    "color": "#32CD32",
+    "category": "Green notes"
+  },
+  "mat\u00e9 tea": {
+    "color": "#556B2F",
+    "category": "Green notes"
+  },
+  "mistletoe": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "pandanus": {
+    "color": "#4CAF50",
+    "category": "Green notes"
+  },
+  "papyrus": {
+    "color": "#DAA520",
+    "category": "Woody notes"
+  },
+  "pea": {
+    "color": "#90EE90",
+    "category": "Green notes"
+  },
+  "smilax": {
+    "color": "#4CAF50",
+    "category": "Green notes"
+  },
+  "tea": {
+    "color": "#556B2F",
+    "category": "Green notes"
+  },
+  "vegetables": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "vetiver": {
+    "color": "#556B2F",
+    "category": "Woody notes"
+  },
+  "violet leaf": {
+    "color": "#9370DB",
+    "category": "Green notes"
+  },
+  "absinth": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "angelica": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "aniseed": {
+    "color": "#F5F5DC",
+    "category": "Spicy notes"
+  },
+  "arnica": {
+    "color": "#FFD700",
+    "category": "Herbaceous notes"
+  },
+  "artemisia": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "basil": {
+    "color": "#228B22",
+    "category": "Herbaceous notes"
+  },
+  "buchu": {
+    "color": "#81C784",
+    "category": "Herbaceous notes"
+  },
+  "camphor tree": {
+    "color": "#81C784",
+    "category": "Herbaceous notes"
+  },
+  "cannabis": {
+    "color": "#228B22",
+    "category": "Herbaceous notes"
+  },
+  "celery": {
+    "color": "#90EE90",
+    "category": "Spicy notes"
+  },
+  "clary sage": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "cress": {
+    "color": "#228B22",
+    "category": "Herbaceous notes"
+  },
+  "davana": {
+    "color": "#81C784",
+    "category": "Herbaceous notes"
+  },
+  "dill": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "eucalyptus": {
+    "color": "#2E8B57",
+    "category": "Herbaceous notes"
+  },
+  "fennel": {
+    "color": "#9ACD32",
+    "category": "Spicy notes"
+  },
+  "gentian": {
+    "color": "#9370DB",
+    "category": "Herbaceous notes"
+  },
+  "ginseng": {
+    "color": "#D2B48C",
+    "category": "Herbaceous notes"
+  },
+  "glycyrrhiza": {
+    "color": "#8B4513",
+    "category": "Herbaceous notes"
+  },
+  "laurel": {
+    "color": "#228B22",
+    "category": "Spicy notes"
+  },
+  "marjoram": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "melissa": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "mint": {
+    "color": "#98FB98",
+    "category": "Herbaceous notes"
+  },
+  "mugwort": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "myrtle": {
+    "color": "#228B22",
+    "category": "Herbaceous notes"
+  },
+  "nettle": {
+    "color": "#228B22",
+    "category": "Herbaceous notes"
+  },
+  "oregano": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "parsley": {
+    "color": "#228B22",
+    "category": "Herbaceous notes"
+  },
+  "peppermint": {
+    "color": "#98FB98",
+    "category": "Herbaceous notes"
+  },
+  "rosemary": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "sage": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "shiso": {
+    "color": "#9370DB",
+    "category": "Spicy notes"
+  },
+  "spearmint": {
+    "color": "#98FB98",
+    "category": "Herbaceous notes"
+  },
+  "tarragon": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "thyme": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "valerian": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "yarrow": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "clay": {
+    "color": "#A0522D",
+    "category": "Mineral notes"
+  },
+  "coal": {
+    "color": "#2F4F4F",
+    "category": "Mineral notes"
+  },
+  "gemstone": {
+    "color": "#B0C4DE",
+    "category": "Mineral notes"
+  },
+  "gunpowder": {
+    "color": "#696969",
+    "category": "Mineral notes"
+  },
+  "ink": {
+    "color": "#000080",
+    "category": "Other"
+  },
+  "salt": {
+    "color": "#F5F5F5",
+    "category": "Mineral notes"
+  },
+  "salty notes": {
+    "color": "#607D8B",
+    "category": "Mineral notes"
+  },
+  "tar": {
+    "color": "#2F4F4F",
+    "category": "Resinous notes"
+  },
+  "lichen": {
+    "color": "#9ACD32",
+    "category": "Mossy notes"
+  },
+  "moss": {
+    "color": "#228B22",
+    "category": "Mossy notes"
+  },
+  "oakmoss": {
+    "color": "#556B2F",
+    "category": "Mossy notes"
+  },
+  "tree moss": {
+    "color": "#689F38",
+    "category": "Mossy notes"
+  },
+  "ambrette": {
+    "color": "#F8BBD9",
+    "category": "Musk"
+  },
+  "deer musk": {
+    "color": "#D2B48C",
+    "category": "Musk"
+  },
+  "abstract notes": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "adhesive": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "chemicals": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "cosmetics": {
+    "color": "#FFB6C1",
+    "category": "Other"
+  },
+  "fuel": {
+    "color": "#2F4F4F",
+    "category": "Other"
+  },
+  "human": {
+    "color": "#DDBEA9",
+    "category": "Other"
+  },
+  "metallic notes": {
+    "color": "#C0C0C0",
+    "category": "Other"
+  },
+  "oil": {
+    "color": "#2F4F4F",
+    "category": "Other"
+  },
+  "paper": {
+    "color": "#F5F5DC",
+    "category": "Woody notes"
+  },
+  "plastic": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "tech accords": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "varnish": {
+    "color": "#8B4513",
+    "category": "Other"
+  },
+  "agarwood / oud": {
+    "color": "#654321",
+    "category": "Oriental notes"
+  },
+  "benzoin": {
+    "color": "#DEB887",
+    "category": "Resinous notes"
+  },
+  "myrrh": {
+    "color": "#B8860B",
+    "category": "Resinous notes"
+  },
+  "tonka bean": {
+    "color": "#D2B48C",
+    "category": "Oriental notes"
+  },
+  "vanilla": {
+    "color": "#F5DEB3",
+    "category": "Oriental notes"
+  },
+  "beeswax": {
+    "color": "#FFD700",
+    "category": "Resinous notes"
+  },
+  "dragon's blood": {
+    "color": "#8B0000",
+    "category": "Resinous notes"
+  },
+  "elemi": {
+    "color": "#8D6E63",
+    "category": "Resinous notes"
+  },
+  "galbanum": {
+    "color": "#9ACD32",
+    "category": "Resinous notes"
+  },
+  "jojoba": {
+    "color": "#DAA520",
+    "category": "Resinous notes"
+  },
+  "labdanum": {
+    "color": "#8B7355",
+    "category": "Resinous notes"
+  },
+  "mastic": {
+    "color": "#F5F5DC",
+    "category": "Resinous notes"
+  },
+  "opoponax": {
+    "color": "#8D6E63",
+    "category": "Resinous notes"
+  },
+  "storax": {
+    "color": "#8B7355",
+    "category": "Resinous notes"
+  },
+  "wax": {
+    "color": "#FFE4B5",
+    "category": "Resinous notes"
+  },
+  "khyphi": {
+    "color": "#424242",
+    "category": "Smoky notes"
+  },
+  "lapsang souchong tea": {
+    "color": "#2F4F4F",
+    "category": "Smoky notes"
+  },
+  "allspice": {
+    "color": "#8B4513",
+    "category": "Spicy notes"
+  },
+  "bay rum": {
+    "color": "#8B4513",
+    "category": "Spicy notes"
+  },
+  "black caraway": {
+    "color": "#2F4F4F",
+    "category": "Spicy notes"
+  },
+  "caraway": {
+    "color": "#8B4513",
+    "category": "Spicy notes"
+  },
+  "cardamom": {
+    "color": "#90EE90",
+    "category": "Spicy notes"
+  },
+  "chili": {
+    "color": "#FF0000",
+    "category": "Spicy notes"
+  },
+  "cinnamon": {
+    "color": "#D2691E",
+    "category": "Spicy notes"
+  },
+  "clove": {
+    "color": "#8B4513",
+    "category": "Spicy notes"
+  },
+  "coriander": {
+    "color": "#DEB887",
+    "category": "Spicy notes"
+  },
+  "cumin": {
+    "color": "#B8860B",
+    "category": "Spicy notes"
+  },
+  "curry": {
+    "color": "#FF8C00",
+    "category": "Spicy notes"
+  },
+  "fenugreek": {
+    "color": "#DAA520",
+    "category": "Spicy notes"
+  },
+  "ginger": {
+    "color": "#CD853F",
+    "category": "Spicy notes"
+  },
+  "juniper": {
+    "color": "#228B22",
+    "category": "Spicy notes"
+  },
+  "mustard": {
+    "color": "#FFDB58",
+    "category": "Spicy notes"
+  },
+  "nutmeg": {
+    "color": "#8B4513",
+    "category": "Spicy notes"
+  },
+  "paprika": {
+    "color": "#FF4500",
+    "category": "Spicy notes"
+  },
+  "pepper": {
+    "color": "#2F4F4F",
+    "category": "Spicy notes"
+  },
+  "saffron": {
+    "color": "#FF8C00",
+    "category": "Spicy notes"
+  },
+  "sesame": {
+    "color": "#F5DEB3",
+    "category": "Spicy notes"
+  },
+  "spices": {
+    "color": "#FF5722",
+    "category": "Spicy notes"
+  },
+  "star anise": {
+    "color": "#8B4513",
+    "category": "Spicy notes"
+  },
+  "turmeric": {
+    "color": "#FFD700",
+    "category": "Spicy notes"
+  },
+  "cotton": {
+    "color": "#F5F5F5",
+    "category": "Textile notes"
+  },
+  "linen": {
+    "color": "#FAF0E6",
+    "category": "Textile notes"
+  },
+  "silk": {
+    "color": "#FFF8DC",
+    "category": "Textile notes"
+  },
+  "velvet": {
+    "color": "#800080",
+    "category": "Textile notes"
+  },
+  "wool": {
+    "color": "#F5F5DC",
+    "category": "Textile notes"
+  },
+  "cigar": {
+    "color": "#8B4513",
+    "category": "Tobacco"
+  },
+  "tobacco flower": {
+    "color": "#DEB887",
+    "category": "Tobacco"
+  },
+  "alder": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "aspen": {
+    "color": "#F5F5DC",
+    "category": "Woody notes"
+  },
+  "atlas cedar": {
+    "color": "#8B7355",
+    "category": "Woody notes"
+  },
+  "beech": {
+    "color": "#F5DEB3",
+    "category": "Woody notes"
+  },
+  "birch": {
+    "color": "#F5F5DC",
+    "category": "Woody notes"
+  },
+  "cabrueva": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "cedar": {
+    "color": "#8B7355",
+    "category": "Woody notes"
+  },
+  "chestnut": {
+    "color": "#8B4513",
+    "category": "Woody notes"
+  },
+  "cypress": {
+    "color": "#2E8B57",
+    "category": "Woody notes"
+  },
+  "driftwood": {
+    "color": "#D2B48C",
+    "category": "Woody notes"
+  },
+  "ebony": {
+    "color": "#2F4F4F",
+    "category": "Woody notes"
+  },
+  "elm tree": {
+    "color": "#DEB887",
+    "category": "Woody notes"
+  },
+  "gaiac wood": {
+    "color": "#8B7355",
+    "category": "Woody notes"
+  },
+  "hinoki": {
+    "color": "#DEB887",
+    "category": "Woody notes"
+  },
+  "holly": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "jacaranda": {
+    "color": "#9370DB",
+    "category": "Woody notes"
+  },
+  "katsura tree": {
+    "color": "#CD853F",
+    "category": "Woody notes"
+  },
+  "linden tree": {
+    "color": "#F5DEB3",
+    "category": "Woody notes"
+  },
+  "mahagony": {
+    "color": "#C04000",
+    "category": "Woody notes"
+  },
+  "manuka": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "maple": {
+    "color": "#DEB887",
+    "category": "Woody notes"
+  },
+  "massoia": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "mountain ash": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "muhuhu": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "oak": {
+    "color": "#8B4513",
+    "category": "Woody notes"
+  },
+  "okoum\u00e9": {
+    "color": "#DEB887",
+    "category": "Woody notes"
+  },
+  "pagoda tree": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "palisander": {
+    "color": "#8B008B",
+    "category": "Woody notes"
+  },
+  "palm tree": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "poplar": {
+    "color": "#F5F5DC",
+    "category": "Woody notes"
+  },
+  "rosewood": {
+    "color": "#65000B",
+    "category": "Woody notes"
+  },
+  "sandalwood": {
+    "color": "#F4A460",
+    "category": "Woody notes"
+  },
+  "tea tree": {
+    "color": "#9ACD32",
+    "category": "Woody notes"
+  },
+  "teak": {
+    "color": "#8B7355",
+    "category": "Woody notes"
+  },
+  "thujopsis (hiba)": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "tulip tree": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "virginia cedar": {
+    "color": "#8B7355",
+    "category": "Woody notes"
+  },
+  "wenge": {
+    "color": "#654321",
+    "category": "Woody notes"
+  },
+  "willow": {
+    "color": "#9ACD32",
+    "category": "Woody notes"
+  },
+  "woods": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "2-methylundecanal": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "abelmoschus": {
+    "color": "#F8BBD9",
+    "category": "Musk"
+  },
+  "acridity": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "afghan herbs": {
+    "color": "#81C784",
+    "category": "Herbaceous notes"
+  },
+  "ajowan": {
+    "color": "#FF5722",
+    "category": "Spicy notes"
+  },
+  "aldehydes": {
+    "color": "#E8F4FD",
+    "category": "Aldehydes"
+  },
+  "alphonso mango": {
+    "color": "#FFB347",
+    "category": "Fruity notes"
+  },
+  "alpine hedge rose": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "amylsalicylate": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "androstenol": {
+    "color": "#F8BBD9",
+    "category": "Musk"
+  },
+  "asafoetida": {
+    "color": "#FF5722",
+    "category": "Spicy notes"
+  },
+  "avocado": {
+    "color": "#4CAF50",
+    "category": "Green notes"
+  },
+  "açaí": {
+    "color": "#4B0082",
+    "category": "Fruity notes"
+  },
+  "baby's breath": {
+    "color": "#F5F5F5",
+    "category": "Floral notes"
+  },
+  "baihao yinzhen tea": {
+    "color": "#F5F5DC",
+    "category": "Green notes"
+  },
+  "balm of gilead": {
+    "color": "#9B6B4F",
+    "category": "Balsamic notes"
+  },
+  "basmati rice": {
+    "color": "#F5F5DC",
+    "category": "Grain"
+  },
+  "belladonna": {
+    "color": "#8A2BE2",
+    "category": "Floral notes"
+  },
+  "bellini": {
+    "color": "#FFB6C1",
+    "category": "Gourmandy notes"
+  },
+  "bladderwrack": {
+    "color": "#556B2F",
+    "category": "Aquatic notes"
+  },
+  "blond tobacco": {
+    "color": "#DAA520",
+    "category": "Tobacco"
+  },
+  "borneo oud": {
+    "color": "#654321",
+    "category": "Oriental notes"
+  },
+  "boswellia frereana": {
+    "color": "#8D6E63",
+    "category": "Resinous notes"
+  },
+  "boswellia papyrifera": {
+    "color": "#8D6E63",
+    "category": "Resinous notes"
+  },
+  "brassavola nodosa": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "bregnotrix": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "broad-leaved paperbark": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "bunch-flowered narcissus": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "burnt electronics": {
+    "color": "#2F4F4F",
+    "category": "Other"
+  },
+  "burnt oil": {
+    "color": "#2F4F4F",
+    "category": "Other"
+  },
+  "burnt toast": {
+    "color": "#8B4513",
+    "category": "Gourmandy notes"
+  },
+  "bushman's candle": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "caffè macchiato": {
+    "color": "#8B4513",
+    "category": "Gourmandy notes"
+  },
+  "caipirinha": {
+    "color": "#32CD32",
+    "category": "Gourmandy notes"
+  },
+  "california bay laurel": {
+    "color": "#228B22",
+    "category": "Herbaceous notes"
+  },
+  "callitris columellaris": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "cambodian oud": {
+    "color": "#654321",
+    "category": "Oriental notes"
+  },
+  "camellia amplexicaulis": {
+    "color": "#FFB6C1",
+    "category": "Floral notes"
+  },
+  "canary islands juniper": {
+    "color": "#228B22",
+    "category": "Spicy notes"
+  },
+  "cappucino": {
+    "color": "#8B4513",
+    "category": "Gourmandy notes"
+  },
+  "caramelized almond": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "cep": {
+    "color": "#D2B48C",
+    "category": "Gourmandy notes"
+  },
+  "chlorophyll": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "choya nakh": {
+    "color": "#E91E63",
+    "category": "Oriental notes"
+  },
+  "christ's thorn jujube": {
+    "color": "#8B4513",
+    "category": "Fruity notes"
+  },
+  "coffee": {
+    "color": "#654321",
+    "category": "Gourmandy notes"
+  },
+  "coffee co2": {
+    "color": "#654321",
+    "category": "Gourmandy notes"
+  },
+  "concord grape": {
+    "color": "#663399",
+    "category": "Fruity notes"
+  },
+  "cryptomeria": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "crème brûlée": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "curaçao": {
+    "color": "#4169E1",
+    "category": "Gourmandy notes"
+  },
+  "daffodil": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "damascus plum": {
+    "color": "#8B008B",
+    "category": "Fruity notes"
+  },
+  "decomposing leaf": {
+    "color": "#556B2F",
+    "category": "Green notes"
+  },
+  "delphinium": {
+    "color": "#6495ED",
+    "category": "Floral notes"
+  },
+  "dew drop": {
+    "color": "#E0FFFF",
+    "category": "Aquatic notes"
+  },
+  "dihydromyrcenol": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "dirt": {
+    "color": "#8B6914",
+    "category": "Earthy notes"
+  },
+  "dodecanal": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "douglas fir": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "drawing ink": {
+    "color": "#000080",
+    "category": "Other"
+  },
+  "drenzlor": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "dulce de leche": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "dust": {
+    "color": "#D2B48C",
+    "category": "Mineral notes"
+  },
+  "dyer's-broom": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "eastern arborvitae": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "eau de cologne mint": {
+    "color": "#98FB98",
+    "category": "Herbaceous notes"
+  },
+  "erythroxylum coca": {
+    "color": "#228B22",
+    "category": "Green notes"
+  },
+  "eugenol": {
+    "color": "#8B4513",
+    "category": "Spicy notes"
+  },
+  "european black pine": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "european larch": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "european white water lily": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "evaporated milk": {
+    "color": "#F5F5F5",
+    "category": "Gourmandy notes"
+  },
+  "evee™": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "exaltolide®": {
+    "color": "#F8BBD9",
+    "category": "Musk"
+  },
+  "fermented almond": {
+    "color": "#D2B48C",
+    "category": "Gourmandy notes"
+  },
+  "filth": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "finglebop": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "fleur de sel": {
+    "color": "#F5F5F5",
+    "category": "Mineral notes"
+  },
+  "forget-me-not": {
+    "color": "#87CEEB",
+    "category": "Floral notes"
+  },
+  "foulness": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "funk": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "gin fizz": {
+    "color": "#E0FFFF",
+    "category": "Gourmandy notes"
+  },
+  "gin tonic": {
+    "color": "#E0FFFF",
+    "category": "Gourmandy notes"
+  },
+  "glimzorith": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "golden chain": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "golden delicious apple": {
+    "color": "#FFD700",
+    "category": "Fruity notes"
+  },
+  "gotu kola": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "gowé": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "grebzor": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "green mandarin orange": {
+    "color": "#32CD32",
+    "category": "Citric notes"
+  },
+  "gum rockrose": {
+    "color": "#8D6E63",
+    "category": "Resinous notes"
+  },
+  "gustavia scenttrek™": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "gymwear": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "handroanthus impetiginosus": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "hay": {
+    "color": "#DAA520",
+    "category": "Green notes"
+  },
+  "helvetolide®": {
+    "color": "#F8BBD9",
+    "category": "Musk"
+  },
+  "hemlock fir": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "hiba": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "honduras styrax": {
+    "color": "#8D6E63",
+    "category": "Resinous notes"
+  },
+  "hongkong oud": {
+    "color": "#654321",
+    "category": "Oriental notes"
+  },
+  "hyssop": {
+    "color": "#9370DB",
+    "category": "Herbaceous notes"
+  },
+  "iris germanica": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "iris tingitana": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "iso-e-super": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "isobutyl quinoline": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "isocyclocitral": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "jabuticaba": {
+    "color": "#4B0082",
+    "category": "Fruity notes"
+  },
+  "japanese larch": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "jasminum auriculatum": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "kabosu": {
+    "color": "#90EE90",
+    "category": "Citric notes"
+  },
+  "karo karounde": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "kava kava": {
+    "color": "#8B4513",
+    "category": "Herbaceous notes"
+  },
+  "kenyan lily": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "kir royal": {
+    "color": "#8B008B",
+    "category": "Gourmandy notes"
+  },
+  "kiwi": {
+    "color": "#9ACD32",
+    "category": "Fruity notes"
+  },
+  "kunzea": {
+    "color": "#81C784",
+    "category": "Herbaceous notes"
+  },
+  "latte macchiato": {
+    "color": "#D2B48C",
+    "category": "Gourmandy notes"
+  },
+  "lesser calamint": {
+    "color": "#98FB98",
+    "category": "Herbaceous notes"
+  },
+  "lilac concrete": {
+    "color": "#DDA0DD",
+    "category": "Floral notes"
+  },
+  "lilybelle®": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "limbanol®": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "lipgloss": {
+    "color": "#FFB6C1",
+    "category": "Other"
+  },
+  "lollipop": {
+    "color": "#FF69B4",
+    "category": "Gourmandy notes"
+  },
+  "lubricating oil": {
+    "color": "#2F4F4F",
+    "category": "Other"
+  },
+  "maritime pine": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "marron glacé": {
+    "color": "#8B4513",
+    "category": "Gourmandy notes"
+  },
+  "masala chai": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "mediterranean cypress": {
+    "color": "#2E8B57",
+    "category": "Woody notes"
+  },
+  "mediterranean thyme": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  },
+  "methyl pamplemousse": {
+    "color": "#FFB6C1",
+    "category": "Citric notes"
+  },
+  "michelia dianica": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "mirabelle plum": {
+    "color": "#FFD700",
+    "category": "Fruity notes"
+  },
+  "mitti attar": {
+    "color": "#8B6914",
+    "category": "Earthy notes"
+  },
+  "moldy wallpaper": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "moplonk": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "mothball": {
+    "color": "#F5F5F5",
+    "category": "Other"
+  },
+  "mulanje cedarwood scenttrek™": {
+    "color": "#8B7355",
+    "category": "Woody notes"
+  },
+  "mystikal®": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "nag champa": {
+    "color": "#8B7355",
+    "category": "Oriental notes"
+  },
+  "nagarmotha": {
+    "color": "#81C784",
+    "category": "Herbaceous notes"
+  },
+  "neapolitan maple": {
+    "color": "#DEB887",
+    "category": "Woody notes"
+  },
+  "nebulonix": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "night-blooming cereus": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "night-blooming jasmine": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "norlimbanol™": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "nuoc cham": {
+    "color": "#D2691E",
+    "category": "Gourmandy notes"
+  },
+  "nyctanthes arbor-tristis": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "nympheal®": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "onion": {
+    "color": "#F5F5DC",
+    "category": "Herbaceous notes"
+  },
+  "onycha": {
+    "color": "#8D6E63",
+    "category": "Resinous notes"
+  },
+  "oriental": {
+    "color": "#E91E63",
+    "category": "Oriental notes"
+  },
+  "orris concrete": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "orris root": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "oud assafi™": {
+    "color": "#654321",
+    "category": "Oriental notes"
+  },
+  "oud maleki": {
+    "color": "#654321",
+    "category": "Oriental notes"
+  },
+  "ox-eye daisy": {
+    "color": "#FFFFE0",
+    "category": "Floral notes"
+  },
+  "oxygen": {
+    "color": "#87CEEB",
+    "category": "Aquatic notes"
+  },
+  "palestinian sweet lime": {
+    "color": "#32CD32",
+    "category": "Citric notes"
+  },
+  "pencil shaving": {
+    "color": "#DEB887",
+    "category": "Woody notes"
+  },
+  "perique tobacco": {
+    "color": "#8B4513",
+    "category": "Tobacco"
+  },
+  "periwinkle": {
+    "color": "#CCCCFF",
+    "category": "Floral notes"
+  },
+  "petrichor": {
+    "color": "#607D8B",
+    "category": "Mineral notes"
+  },
+  "philippine elemi": {
+    "color": "#8D6E63",
+    "category": "Resinous notes"
+  },
+  "phytolacca dioica": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "pierre de ronsard rose": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "pinot noir wine": {
+    "color": "#722F37",
+    "category": "Gourmandy notes"
+  },
+  "piña colada": {
+    "color": "#FFFACD",
+    "category": "Gourmandy notes"
+  },
+  "plonktar": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "plum": {
+    "color": "#8B008B",
+    "category": "Fruity notes"
+  },
+  "pomegranate": {
+    "color": "#DC143C",
+    "category": "Fruity notes"
+  },
+  "primofiore lemon": {
+    "color": "#FFFF00",
+    "category": "Citric notes"
+  },
+  "propolis": {
+    "color": "#B8860B",
+    "category": "Resinous notes"
+  },
+  "pungidity": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "purple iris": {
+    "color": "#9370DB",
+    "category": "Floral notes"
+  },
+  "putridity": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "quarklox": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "queen-of-the-night": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "queen-of-the-night scenttrek™": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "quintozar": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "rancid oil": {
+    "color": "#2F4F4F",
+    "category": "Other"
+  },
+  "rimu": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "rosa alba otto": {
+    "color": "#F5F5F5",
+    "category": "Floral notes"
+  },
+  "rosa rugosa": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "rose ultimate extract™": {
+    "color": "#FF69B4",
+    "category": "Floral notes"
+  },
+  "rotten egg": {
+    "color": "#FFFF99",
+    "category": "Other"
+  },
+  "rotten onion": {
+    "color": "#F5F5DC",
+    "category": "Other"
+  },
+  "royal jelly": {
+    "color": "#FFD700",
+    "category": "Gourmandy notes"
+  },
+  "royal poinciana": {
+    "color": "#FF4500",
+    "category": "Floral notes"
+  },
+  "saint john's wort": {
+    "color": "#FFD700",
+    "category": "Herbaceous notes"
+  },
+  "salicylate": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "sawdust": {
+    "color": "#DEB887",
+    "category": "Woody notes"
+  },
+  "senecio": {
+    "color": "#FFD700",
+    "category": "Floral notes"
+  },
+  "sequoia": {
+    "color": "#8B4513",
+    "category": "Woody notes"
+  },
+  "shamamatul amber attar": {
+    "color": "#D4A574",
+    "category": "Amber"
+  },
+  "shoe polish": {
+    "color": "#2F4F4F",
+    "category": "Other"
+  },
+  "silver birch": {
+    "color": "#F5F5DC",
+    "category": "Woody notes"
+  },
+  "south african buchu": {
+    "color": "#81C784",
+    "category": "Herbaceous notes"
+  },
+  "sparkling wine": {
+    "color": "#FFFACD",
+    "category": "Gourmandy notes"
+  },
+  "spindrift": {
+    "color": "#E0FFFF",
+    "category": "Aquatic notes"
+  },
+  "spoiled spice": {
+    "color": "#8B4513",
+    "category": "Spicy notes"
+  },
+  "starfleur™ 40": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "stench": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "stone pine needle": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "strelitzia": {
+    "color": "#FF8C00",
+    "category": "Floral notes"
+  },
+  "sulfur": {
+    "color": "#FFFF99",
+    "category": "Mineral notes"
+  },
+  "sulfurol": {
+    "color": "#FFFF99",
+    "category": "Mineral notes"
+  },
+  "swamp": {
+    "color": "#556B2F",
+    "category": "Aquatic notes"
+  },
+  "sweet vernal grass": {
+    "color": "#9ACD32",
+    "category": "Green notes"
+  },
+  "sweetened condensed milk": {
+    "color": "#F5F5F5",
+    "category": "Gourmandy notes"
+  },
+  "sylkolide™": {
+    "color": "#F8BBD9",
+    "category": "Musk"
+  },
+  "synthetic": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "timbersilk™": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "tonalid™": {
+    "color": "#F8BBD9",
+    "category": "Musk"
+  },
+  "tonkin musk": {
+    "color": "#F8BBD9",
+    "category": "Musk"
+  },
+  "triplal": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "undecavertol": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "vallaris solanacea": {
+    "color": "#E91E63",
+    "category": "Floral notes"
+  },
+  "victoria amazonica": {
+    "color": "#F5F5DC",
+    "category": "Floral notes"
+  },
+  "vodka": {
+    "color": "#E0FFFF",
+    "category": "Gourmandy notes"
+  },
+  "vulcanolide": {
+    "color": "#9C27B0",
+    "category": "Fragrance ingredients"
+  },
+  "wacapou scenttrek™": {
+    "color": "#795548",
+    "category": "Woody notes"
+  },
+  "wasabi": {
+    "color": "#32CD32",
+    "category": "Spicy notes"
+  },
+  "xylophazq": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "yellow plum": {
+    "color": "#FFD700",
+    "category": "Fruity notes"
+  },
+  "yew": {
+    "color": "#228B22",
+    "category": "Woody notes"
+  },
+  "yogurt": {
+    "color": "#F5F5F5",
+    "category": "Gourmandy notes"
+  },
+  "zenthorium": {
+    "color": "#95A5A6",
+    "category": "Other"
+  },
+  "zwerg-kalmus": {
+    "color": "#9ACD32",
+    "category": "Herbaceous notes"
+  }
+}
