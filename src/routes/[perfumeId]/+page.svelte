@@ -3,6 +3,7 @@
 	import gsap from 'gsap';
 	import { goto } from '$app/navigation';
 	import { page } from '$app/state';
+	import { base } from '$app/paths';
 
 	import { getPerfumeData } from '@/lib/perfume-data';
 	import PerfumeVisualization from '@/lib/PerfumeVisualization.svelte';
@@ -15,7 +16,7 @@
 	let currentPerfume = $derived(Number(page.params.perfumeId));
 
 	function visitNextPerfume() {
-		goto(`/${_.random(perfumeData.length - 1)}`);
+		goto(`${base}/${_.random(perfumeData.length - 1)}`);
 	}
 
 	let hintFadeOut: gsap.core.Tween;
@@ -63,8 +64,6 @@
 	<div class="system-hint absolute bottom-6 left-1/2 z-50 flex -translate-x-1/2 items-center max-sm:hidden">
 		<span class=" text-white opacity-100">Press <span class="text-sm">[SPACE]</span> to go to the next perfume.</span>
 	</div>
-
-	<a href="/1337" aria-hidden="true" class="hidden"></a>
 
 	<div class="absolute right-8 bottom-6 z-50">
 		<button class="next-btn relative cursor-pointer" onclick={visitNextPerfume} bind:this={nextButton}>
