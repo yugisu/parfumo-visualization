@@ -8,11 +8,21 @@ Project root contains two parts of the project: Svelte frontend code with the ac
 
 ## Running locally
 
+To run the visualization:
+```shell
+yarn install
+yarn dev
+```
+
 In order to run the Jupyter notebook:
 
 ```shell
 uv venv # Create venv locally
 uv pip install -r pyproject.toml # Install deps
 
-# Select the kernel from the created .venv folder in the notebook.
+# Select the kernel in VSCode from the created .venv folder in the notebook.
 ```
+
+## Deployment
+
+Performed automatically, on `main` branch push.
