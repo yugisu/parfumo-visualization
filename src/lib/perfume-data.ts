@@ -31,6 +31,7 @@ export const getPerfumeData = () => {
 		.map((d) => Object.fromEntries(Object.entries(d).map(([k, value]) => [k, value === 'NA' ? undefined : value])))
 		// FIXME: Filter out perfumes without Main_Accords data
 		.filter((d) => d['Main_Accords'])
+		.filter((d) => !d['Name'].toLowerCase().includes('ы'))
 		// Convert string notes fields into an array of strings.
 		.map((d) => {
 			notesFields.forEach((nf) => {
