@@ -145,9 +145,15 @@
 				translate 500ms;
 		}
 
-		&:hover::after {
-			opacity: 1;
-			translate: 4px -4px;
+		&:hover,
+		&:focus-visible {
+			outline: none;
+			background-color: rgba(255, 255, 255, 0.1);
+
+			&::after {
+				opacity: 1;
+				translate: 4px -4px;
+			}
 		}
 	}
 </style>

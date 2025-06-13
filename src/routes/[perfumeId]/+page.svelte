@@ -11,12 +11,14 @@
 
 	const perfumeData = getPerfumeData();
 
-	let nextButton: HTMLButtonElement;
+	let nextButton: HTMLAnchorElement;
 
 	let currentPerfume = $derived(Number(page.params.perfumeId));
 
+	const nextPerfume = $derived((currentPerfume, _.random(perfumeData.length - 1)));
+
 	function visitNextPerfume() {
-		goto(`${base}/${_.random(perfumeData.length - 1)}`);
+		goto(`${base}/${nextPerfume}`);
 	}
 
 	let hintFadeOut: gsap.core.Tween;
@@ -42,13 +44,11 @@
 
 			hintFadeOut.seek(5);
 
-			console.log(nextButton);
+			nextButton.classList.add('focused');
 
-			nextButton.focus();
 			nextButton.click();
-
 			setTimeout(() => {
-				nextButton.blur();
+				nextButton.classList.remove('focused');
 			}, 400);
 		}
 	}}
@@ -66,14 +66,20 @@
 	</div>
 
 	<div class="absolute right-8 bottom-6 z-50">
-		<button class="next-btn relative cursor-pointer" onclick={visitNextPerfume} bind:this={nextButton}>
+		<a
+			href="{base}/{nextPerfume}"
+			class="next-btn relative cursor-pointer"
+			class:focused={false}
+			onclick={visitNextPerfume}
+			bind:this={nextButton}
+		>
 			<div class="text-white mix-blend-overlay">
 				<span>Visit Next</span> <span class="next-btn__arrow">→</span>
 			</div>
 			<div class="absolute text-white opacity-60">
 				<span>Visit Next</span> <span class="next-btn__arrow">→</span>
 			</div>
-		</button>
+		</a>
 	</div>
 </main>
 
@@ -93,7 +99,8 @@
 			background-color 200ms;
 
 		&:hover,
-		&:focus-visible {
+		&:focus-visible,
+		&.focused {
 			outline: none;
 			opacity: 0.9;
 
