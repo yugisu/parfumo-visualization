@@ -61,7 +61,29 @@
 		</div>
 	{/key}
 
-	<div class="system-hint absolute bottom-6 left-1/2 z-50 flex -translate-x-1/2 items-center max-sm:hidden">
+	<div class="absolute bottom-6 left-8 z-50 opacity-40">
+		<div class="flex text-white mix-blend-overlay">
+			<a
+				href="https://www.kaggle.com/datasets/olgagmiufana1/parfumo-fragrance-dataset"
+				target="_blank"
+				class="next-btn relative cursor-pointer"
+				tabindex="-1"
+			>
+				Parfumo Fragrance Dataset
+			</a>
+		</div>
+		<div class="absolute top-0 text-white opacity-60">
+			<a
+				href="https://www.kaggle.com/datasets/olgagmiufana1/parfumo-fragrance-dataset"
+				target="_blank"
+				class="next-btn relative cursor-pointer"
+			>
+				Parfumo Fragrance Dataset
+			</a>
+		</div>
+	</div>
+
+	<div class="system-hint absolute bottom-6 left-1/2 z-50 flex -translate-x-1/2 items-center py-1 max-sm:hidden">
 		<span class=" text-white opacity-100">Press <span class="text-sm">[SPACE]</span> to go to the next perfume.</span>
 	</div>
 
