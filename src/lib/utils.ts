@@ -1,3 +1,5 @@
+import { browser } from '$app/environment';
+
 export function stringToCoords(str: string, count = 10) {
 	function hash(s: string) {
 		let h = 0;
@@ -20,3 +22,9 @@ export function stringToCoords(str: string, count = 10) {
 
 	return coords;
 }
+
+export const media = {
+	get isMobile() {
+		return browser ? matchMedia('(width < 40rem)').matches : false;
+	},
+};
