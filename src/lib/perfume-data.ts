@@ -29,7 +29,6 @@ export const getPerfumeData = () => {
 	const perfumeData = perfumeCsv
 		// Convert NA to undefined.
 		.map((d) => Object.fromEntries(Object.entries(d).map(([k, value]) => [k, value === 'NA' ? undefined : value])))
-		// FIXME: Filter out perfumes without Main_Accords data
 		.filter((d) => d['Main_Accords'])
 		.filter((d) => !d['Name'].toLowerCase().includes('ы'))
 		// Convert string notes fields into an array of strings.
@@ -41,7 +40,7 @@ export const getPerfumeData = () => {
 			return d as unknown as Perfume;
 		});
 
-	return perfumeData;
+	return perfumeData as Perfume[];
 };
 
 export const getNoteDetails = (note: string, colorBasedOnCategory?: boolean): { category: string; color: string } => {
